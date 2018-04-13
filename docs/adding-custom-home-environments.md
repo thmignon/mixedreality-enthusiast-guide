@@ -7,9 +7,9 @@ keywords: Windows Mixed Reality, Mixed Reality, Virtual Reality, VR, MR, Home, C
 
 
 # Adding new home environments
-Starting with the Windows 2018 Spring Creators update (OS Version 1804) we've enabled an experimental feature that lets you add custom environments to your places picker! Windows Mixed Reality has two default environments, Cliff House and Skyloft that you can navigate between. Custom environments let you expand that list with your own creations so you can customize your Windows Mixed Reality home to match your own personal style.
+Starting with the Windows 2018 Spring Creators update (OS Version 1804) we've enabled an experimental feature that lets you add custom environments to your places picker! Windows Mixed Reality has two default environments, Cliff House and Skyloft that you can navigate between. Custom environments let you expand that list with your own creations so you can fully customize your home experience.
 
-Custom environments expand the creative possibilities of Windows Mixed Reality by giving you the flexiblity to change the backdrop for the Mixed Reality home experience. When using a custom environment you'll notice that teleporting, interacting with apps, and placing holograms works just like it does in the Cliff House and Skyloft. Browse the web in a fantasy world, or fill a futuristic city with holograms from the Holograms app the possibilities are endless!
+Custom environments expand the creative possibilities of Windows Mixed Reality by giving you the flexiblity to change the backdrop for the Mixed Reality. When using a custom environment you'll notice that teleporting, interacting with apps, and placing holograms works just like it does in the Cliff House and Skyloft. Browse the web in a fantasy world, or fill a futuristic city with holograms from the Holograms app the possibilities are endless!
 
 ## Getting started
 We've created 3 sample environments that show off some of some of the creative possibilites of custom envrionments. To get started:
@@ -24,7 +24,10 @@ We've created 3 sample environments that show off some of some of the creative p
 7. You will find the Fantasy Environment in your list of environments, select it to enter your new custom environment!
 
 ## Creating your own custom environment
-We've created a few sample environments for you to explore, but you can also export your own custom environments using your favorite 3D editing software. Learn more about exporting your own custom environments for Windows Mixed reality here. The possibilities are endless with custom environments and we're excited to see what you build. 
+We've created a few sample environments for you to explore, but you can also export your own custom environments using your favorite 3D editing software. Learn more about exporting your own custom environments for Windows Mixed reality here. 
+
+## Feedback
+In this experimental release we're interested to see how you're using custom environments. Please share any and all feedback for creating and using these environments in the Windows Feedback Hub. The Windows Feedback Hub is preinstalled on Windows, simply search "Feedback Hub" with the Windows search bar and open the first result. When submitting feedback include "Custom Environments" in the title so that we can quickly find your suggestions. 
 
 ## Troubleshooting and tips
 ### How do I change the name of the environment?
