@@ -7,8 +7,10 @@ keywords: Windows Mixed Reality, Mixed Reality, Virtual Reality, VR, MR, Home, C
 
 
 # Adding new home environments
-Starting with the Windows 2018 Spring Creators update (OS Version 1804) you can travel between the Cliff House and Skyloft environments using the places picker. We've also enabled an experimental feature that lets you add new environments to your places picker, including your own creations!
-<br>Custom environments expand the creative possibilities of Windows Mixed Reality. When using custom environments you'll notice that teleporting, interacting with apps, and placing holograms works just like it does in the Cliff House and skyloft. Custom environments simiply give you the flexiblity to change the backdrop for your experience in the Windows Mixed Reality home. Travel to a fantastic world to browse the web, or fill a futuristic world with holograms from the Holograms app.
+Starting with the Windows 2018 Spring Creators update (OS Version 1804) we've enabled an experimental feature that lets you add custom environments to your places picker! Windows Mixed Reality has two default environments, Cliff House and Skyloft that you can navigate between. Custom environments let you expand that list with your own creations so you can customize your Windows Mixed Reality home to match your own personal style.
+
+<br>Custom environments expand the creative possibilities of Windows Mixed Reality by giving you the flexiblity to change the backdrop for the Mixed Reality home experience. When using a custom environment you'll notice that teleporting, interacting with apps, and placing holograms works just like it does in the Cliff House and Skyloft. Browse the web in a fantasy world, or fill a futuristic city with holograms from the Holograms app the possibilities are endless!
+
 ## Getting started
 We've created 3 sample environments that show off some of some of the creative possibilites of custom envrionments. To get started:
 1. Download one of our sample environments
