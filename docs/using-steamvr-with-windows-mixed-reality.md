@@ -41,7 +41,7 @@ If you're a VR enthusiast you might regularly use more than one VR headset on th
 
 We release regular updates to improve the performance, reliability, and overall experience of using SteamVR on Windows Mixed Reality immersive headsets. While none of these preview programs are required, we encourage you to join them if you would like to get updates sooner and more frequently (and give us feedback on those updates!).
 
-### Windows Mixed Reality for SteamVR beta
+### Windows Mixed Reality for SteamVR Beta
 
 Windows Mixed Reality for SteamVR is the component you install from the Steam Store that enables SteamVR to work with your Windows Mixed Reality headset.  We publish updates to this "bridge" regularly and Steam installs them automatically.
 
