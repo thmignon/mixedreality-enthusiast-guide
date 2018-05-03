@@ -11,11 +11,11 @@ Windows Mixed Reality for SteamVR allows users to run SteamVR experiences on Win
 
 ## Get your PC ready
 * Make sure you have no pending updates: Select **Start > Settings > Update & Security > Windows Update**. If updates are available, select **Install now**. If no updates are available, select **Check for updates**, and then install any new ones. 
-* PC requirements vary for the apps and content on Steam. See the minimum requirements per title. A PC with a GTX 1070 graphics card (or equivalent) and an Intel® Core™ i7 processor should offer a good experience for a broad range of titles.
+* PC requirements vary for the apps and content on Steam. See the minimum requirements per title. 
 
 ## Set up Windows Mixed Reality for SteamVR
 1. Install Steam and SteamVR on your PC. [Learn how](https://go.microsoft.com/fwlink/?linkid=862788) 
-2. Install [Windows Mixed Reality for SteamVR](http://store.steampowered.com/app/719950/Windows_Mixed_Reality_SteamVR_preview/).
+2. Install [Windows Mixed Reality for SteamVR](http://store.steampowered.com/app/719950/).
 
 ## Play SteamVR games
 1. Connect your headset to your PC and turn on your motion controllers.
@@ -41,7 +41,7 @@ If you're a VR enthusiast you might regularly use more than one VR headset on th
 
 We release regular updates to improve the performance, reliability, and overall experience of using SteamVR on Windows Mixed Reality immersive headsets. While none of these preview programs are required, we encourage you to join them if you would like to get updates sooner and more frequently (and give us feedback on those updates!).
 
-### Windows Mixed Reality for SteamVR Beta
+### Windows Mixed Reality for SteamVR beta
 
 Windows Mixed Reality for SteamVR is the component you install from the Steam Store that enables SteamVR to work with your Windows Mixed Reality headset.  We publish updates to this "bridge" regularly and Steam installs them automatically.
 
