@@ -12,14 +12,14 @@ Starting with the Windows April 2018 update (OS Version 1803) we've enabled an e
 Custom environments expand the creative possibilities of Windows Mixed Reality by giving you the flexiblity to change the backdrop for the Mixed Reality. When using a custom environment you'll notice that teleporting, interacting with apps, and placing holograms works just like it does in the Cliff House and Skyloft. Browse the web in a fantasy world, or fill a futuristic city with holograms from the Holograms app, the possibilities are endless!
 
 ## Getting started
-We've created 3 sample environments that show off some of some of the creative possibilites of custom envrionments. To get started:
+We've created 3 sample environments that show off some of some of the creative possibilities of custom environments. To get started:
 1. Download one of our sample environments
 <br>[Environment 1 Picture Placeholder] [Environment 2 Picture Placeholder] [Environment 3 Picture Placeholder]
 <br>[Download Environment 1] [Download Environment 2] [Download Environment 3]
 2. Open up File Explorer and navigate to the Environments folder by pasting the following in the address bar "%LOCALAPPDATA%\Packages\EnvironmentsApp_cw5n1h2txyewy\LocalState"
-3. Copy and Paste the envrionment that you downloaded in step 1 into this environments folder
+3. Copy and Paste the environment that you downloaded in step 1 into this environments folder
 4. Restart the Mixed Reality Portal - this will refresh the list of environments in the places picker
-5. Put on your headset and once in the Cliff House or Skyloft environment open up the Start Menu using the Windows button your controller
+5. Put on your headset and once in the Cliff House or Skyloft environment open the Start Menu using the Windows button your controller
 6. Select the "Home" icon to go to the places picker
 7. You will find the Fantasy Environment in your list of environments, select it to enter your new custom environment!
 
@@ -27,7 +27,7 @@ We've created 3 sample environments that show off some of some of the creative p
 We've created a few sample environments for you to explore, but you can also export your own custom environments using your favorite 3D editing software. 
 
 ### Modeling guidelines
-When modeling your environment keep the following reccomendations in mind. This will help ensure the user spawns in the correct orientation in a believably sized world:
+When modeling your environment keep the following recommendations in mind. This will help ensure the user spawns in the correct orientation in a believably sized world:
 1. Users will spawn at 0,0,0 so center your desired spawn location around the origin
 2. Working Units should be set to meters so that assets can be authored at world scale
 3. The Up axis should be set to “Y”.
@@ -78,7 +78,7 @@ Windows Mixed Reality doesn't support environments that exceed 256 mb. When an e
 ### It takes a long time to load my environment, but eventually it shows up
 You can optionally optimize your environment to make it load faster. See the optimizing your environment section above for details
 ### My environment loads but the scale is incorrect
-Windows Mixed Reality translates glTF units to 1 meter when loading enviornmens. If you environment loads up an unexpected scale, double check your exporter to ensure that you're modeling at a 1 meter scale. 
+Windows Mixed Reality translates glTF units to 1 meter when loading environments. If you environment loads up an unexpected scale, double check your exporter to ensure that you're modeling at a 1 meter scale. 
 ### I'm spawning in the wrong location in my environment
 The default spawn location is located at 0,0,0 in the environment. Its not currently possible to customize this location so you must modify the spawn point by exporting your environment with the origin positioned at the desired spawn point. 
 
