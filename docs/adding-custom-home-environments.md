@@ -72,7 +72,7 @@ The file name in the environments folder will be used in the places picker. To c
 ### How do I remove custom environments from my places picker?
 To remove a custom environment simply open up the environments app folder on your PC and delete the environment. Once you restart the Mixed Reality portal this environment will no longer appear in the places picker. 
 ### How do I default to my favorite custom environment?
-You can't currently change the default environment. Each time your restart the mixed reality protal you will be returned to the Cliff House environment. 
+You can't currently change the default environment. Each time your restart the mixed reality portal you will be returned to the Cliff House environment. 
 ### I load into a blank space
 Windows Mixed Reality doesn't support environments that exceed 256 mb. When an environment exceeds this limit you will land in the empty sky box with no model. 
 ### It takes a long time to load my environment, but eventually it shows up
